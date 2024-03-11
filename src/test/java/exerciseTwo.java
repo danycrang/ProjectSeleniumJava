@@ -102,9 +102,6 @@ public class exerciseTwo {
             System.out.println("searchForACruise Test - FAILED");
         }
 
-
-
-
     }
 
     }
